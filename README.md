@@ -124,8 +124,11 @@ Isso reduz o problema para ordenar valores de 0 a n - 1, o que é mais adequado 
 Funções específicas tratam entradas pequenas utilizando combinações mínimas de operações:
 
 `sort_two`
+
 `sort_three`
+
 `sort_four`
+
 `sort_five`
 
 Esses casos são tratados de forma direta para obter desempenho ótimo.
