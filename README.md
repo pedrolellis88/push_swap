@@ -162,8 +162,8 @@ O processo é repetido até que todos os bits relevantes sejam processados, com 
 #### Estrutura do Repositório
 ```text
 push_swap_from_42/
-├── libft_applier/      # Custom libft (libft.a + headers)
-├── srcs/               # push_swap source code
+├── libft_applier/      # libft personalizada (libft.a + headers)
+├── srcs/               # código-fonte do push_swap
 │   ├── push_swap.h
 │   ├── main.c
 │   ├── parse_args.c
